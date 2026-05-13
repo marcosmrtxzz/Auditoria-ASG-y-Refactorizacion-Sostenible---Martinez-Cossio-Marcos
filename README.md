@@ -19,3 +19,19 @@ Análisis. ¿Crees que la web sufre de "inflación de software"? Justifica tu re
 
 Si, la web tiene una inflacion de sofware porque carga demasiados recursos que son mucho mas pesado de lo que es necesario, con el Network he visto que las imagenes sin comprimir pesan mas de 1MB , los JS y las fuentes son demasiadas pesadas tambien y es un tamaña grande, mas tiempo en cargar la web, para el consumo energetivo, muchos recursos que para una web que es para una taberna podria funcionar mejor que archivos muchos mas ligeros.
 
+## Fase 2: Dimensión Social y Equidad (S)
+
+La web debe ser utilizable por todos. Evalúa la accesibilidad (Sostenibilidad Social): 
+Test de Accesibilidad. Pasa una herramienta como WAVE Web Accessibility Evaluation Tool o el propio Lighthouse (pestaña Accessibility).
+
+ - Se ha evaluado la web con Lighthouse y wave y he visto que hay varios problemas que afectan a la sostenibilidad ya que hacen mas dificil el acceso
+
+
+Identificación de barreras. Documenta al menos 2 problemas graves que impidan a personas con diversidad funcional usar la web correctamente (ej. falta de atributos alt en imágenes clave, bajo contraste de colores en botones, formularios sin etiquetas).
+
+- Identificación de barreras de accesibilidad
+    - Hay imagenes que no tienen el atributo alt.
+    - Hay muchas imagenes que no tiene el texto, eso hace que las personas que no pueden leer, comprendan el contenido visual.
+
+- El conrtraste de colores:
+    - Hay textos y botonoes que tienen un contraste insuficientes comprado con el fondo y no cumple con las pautas, esto hace que las personas que tienen problemas de vision puedan no ver o dificultar la vision de las webs
