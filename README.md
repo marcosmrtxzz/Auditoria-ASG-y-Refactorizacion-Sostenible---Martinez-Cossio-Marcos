@@ -14,3 +14,8 @@ Identificación de Bloatware. Inspecciona la red (Network) en las herramientas d
 | **2** | background-video.mp4 | Vídeo  | \~5 a 10 MB  |
 | **3** | showcase.js  | JavaScript  | JavaScript  |
 
+
+Análisis. ¿Crees que la web sufre de "inflación de software"? Justifica tu respuesta.
+
+Si, la web tiene una inflacion de sofware porque carga demasiados recursos que son mucho mas pesado de lo que es necesario, con el Network he visto que las imagenes sin comprimir pesan mas de 1MB , los JS y las fuentes son demasiadas pesadas tambien y es un tamaña grande, mas tiempo en cargar la web, para el consumo energetivo, muchos recursos que para una web que es para una taberna podria funcionar mejor que archivos muchos mas ligeros.
+
