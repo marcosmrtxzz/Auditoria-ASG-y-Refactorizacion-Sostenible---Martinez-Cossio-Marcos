@@ -38,6 +38,12 @@ Identificación de barreras. Documenta al menos 2 problemas graves que impidan a
 ## Fase 3: Dimensión de Gobernanza y Ética (G)
 Revisa cómo trata la empresa a sus usuarios y sus datos:
 Transparencia. ¿Es fácil rechazar las cookies no esenciales o utilizan "patrones oscuros" (Dark Patterns) para forzar al usuario a aceptarlas?
-    - 
-Datos innecesarios. ¿Pide la web datos personales excesivos en su formulario de contacto o registro?
-    -
+    - No da, la posibilidad de rechazarlas ademas de personalizarlas con Configuracion Perzonalizada para poder elegir cual si acepto y cual no.
+    <img width="543" height="123" alt="image" src="https://github.com/user-attachments/assets/6e7b69d4-ee53-47d6-97cc-bab65ff5b644" />
+
+    
+Datos innecesarios. ¿Pide la web datos personales excesivos en su formulario de contacto o registro?   
+   - Pide yo creo lo necesario para poder contactar conmigo, como es Nombre, para saber como llamarme al contactar, el telefono para ponerse en contacto conmigo, y correo para datos mas extensos, ademas de poder elegir donde quiero trabjar tanto en cocina como en sala, y un mensaje por si quiero puntuar algo en especifico.
+      
+<img width="897" height="793" alt="image" src="https://github.com/user-attachments/assets/4a883f33-0677-4e10-8572-80376aa55af4" />
+
