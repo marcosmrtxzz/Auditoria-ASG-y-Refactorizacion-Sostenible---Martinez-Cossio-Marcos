@@ -85,6 +85,34 @@ Reducción de peticiones
    * Reemplazo las imágenes grandes por AVIF.  
    * Quito imágenes que no dan un valor a la web.
 
+## 3. Refactorización. Propuesta.
 
+Debes plantear una mejora técnica estructurada de la web.
 
+3.1. Posibles mejoras ambientales (A)
 
+   * Optimización de imágenes (WebP, compresión)  
+   * Reducción de peticiones HTTP  
+   * Lazy loading  
+   * Eliminación de código no utilizado
+
+3.2. Posibles mejoras sociales (S)
+
+   * Uso de HTML semántico (header, nav, main, etc.)  
+   * Inclusión de atributos alt  
+   * Mejora del contraste  
+   * Navegación accesible
+
+3.3. Posibles mejoras de gobernanza (G)
+
+   * Implementación de consentimiento de cookies transparente  
+   * Simplificación de textos legales  
+   * Eliminación de prácticas engañosas  
+   * Mejora de la privacidad
+
+3.4. Propuesta técnica
+Debes incluir:
+   
+   * Ejemplos de código mejorado  
+   * Comparativa “antes vs después”  
+   * Herramientas utilizadas (Lighthouse, PageSpeed, WAVE…)
