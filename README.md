@@ -47,3 +47,33 @@ Datos innecesarios. ¿Pide la web datos personales excesivos en su formulario de
       
 <img width="897" height="793" alt="image" src="https://github.com/user-attachments/assets/4a883f33-0677-4e10-8572-80376aa55af4" />
 
+## Fase 4: Propuesta de Refactorización (Green Coding)
+Como desarrollador/a, no basta con encontrar los fallos; debes proponer soluciones. Redacta una propuesta de mejora técnica detallando:
+   Optimización de activos. 
+      ¿Qué formatos usarías para sustituir las imágenes actuales (ej. WebP, AVIF)?
+         - WebP:
+            - Porque es bueno como primera idea, ya que reduce ebtre 25 y 35% de peso.
+            - Soporta la transparencia del png y ademas con menos tamaño.
+            - Tiene una Compatibilidad para casi todos los navegadores.
+         - AVIF:
+            -Para mi ahora mismo es la que mas eficiente es ya que cuenta con un 50% menos del peso que WebP y deja la                   misma calidad
+            - Para las web donde tengamos que poner imagenes grandes, ya sea en un slider o de fondo es muy bueno
+            - Tiene lo unico malo que es que soporta el HDR (tecnología que mejora la calidad visual de las imágenes al                   ampliar el rango de luces, sombras y colores) pero va mas lento.
+         - SVG:
+            - Es lo mejor para fotografias pequeñas, como puede ser un logo, o iconos
+            - No tiene perdida y tiene un peso minimo
+            - Puede tener CSS y animaciones
+      ¿Implementarías Lazy Loading?
+         - Pues si, ya que asi condigo que solo se cargen cuando vayan a ser vistas, asi reduce el consumo al abrir una                web,es como el linux y el windows, windows tarda mas en arrancar porque carga todo uses o no uses todo, y linux             carga solo lo que vayas a utilizar por eso tarda menos en cargar el linux.
+         
+   Reducción de peticiones.
+      ¿Qué librerías o scripts externos eliminarías o aplazarías para mejorar la eficiencia del código y reducir el                procesamiento en el dispositivo del cliente?
+         - Cambiaria las imagenes a WebP
+         - Remplazo las imagenes grande por AVIF
+         - Quito imagenes que no dan un valor a la web
+      Reflexión sobre la Paradoja de Jevons.
+      Si optimizamos la web y la carga mucho más rápido, podríamos atraer a muchos más usuarios diarios. ¿Cómo evitarías          que este éxito anule el ahorro energético conseguido?
+         - Al atraer a mas usuarios diarios, la cosa es que gaste menos energia y eso se puede conseguir mostrando todo                desde la memoria cache en vez de desde el backend.
+
+
+
