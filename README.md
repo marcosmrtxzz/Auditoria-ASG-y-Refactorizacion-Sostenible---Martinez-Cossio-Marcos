@@ -24,7 +24,7 @@ Si, la web tiene una inflacion de sofware porque carga demasiados recursos que s
 La web debe ser utilizable por todos. Evalúa la accesibilidad (Sostenibilidad Social): 
 Test de Accesibilidad. Pasa una herramienta como WAVE Web Accessibility Evaluation Tool o el propio Lighthouse (pestaña Accessibility).
 
- - Se ha evaluado la web con Lighthouse y wave y he visto que hay varios problemas que afectan a la sostenibilidad ya que hacen mas dificil el acceso
+   - Se ha evaluado la web con Lighthouse y wave y he visto que hay varios problemas que afectan a la sostenibilidad ya que hacen mas dificil el acceso
 
 
 Identificación de barreras. Documenta al menos 2 problemas graves que impidan a personas con diversidad funcional usar la web correctamente (ej. falta de atributos alt en imágenes clave, bajo contraste de colores en botones, formularios sin etiquetas).
@@ -35,3 +35,9 @@ Identificación de barreras. Documenta al menos 2 problemas graves que impidan a
 
 - El conrtraste de colores:
     - Hay textos y botonoes que tienen un contraste insuficientes comprado con el fondo y no cumple con las pautas, esto hace que las personas que tienen problemas de vision puedan no ver o dificultar la vision de las webs
+## Fase 3: Dimensión de Gobernanza y Ética (G)
+Revisa cómo trata la empresa a sus usuarios y sus datos:
+Transparencia. ¿Es fácil rechazar las cookies no esenciales o utilizan "patrones oscuros" (Dark Patterns) para forzar al usuario a aceptarlas?
+    - 
+Datos innecesarios. ¿Pide la web datos personales excesivos en su formulario de contacto o registro?
+    -
