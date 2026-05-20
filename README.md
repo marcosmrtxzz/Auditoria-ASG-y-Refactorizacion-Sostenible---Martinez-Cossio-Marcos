@@ -57,37 +57,34 @@ Optimización de activos
 
 - WebP:
 
-* Porque es bueno como primera idea, ya que reduce entre 25 y 35% de peso.  
-* Soporta la transparencia del png y además con menos tamaño.  
-* Tiene una compatibilidad para casi todos los navegadores.
+   * Porque es bueno como primera idea, ya que reduce entre 25 y 35% de peso.  
+   * Soporta la transparencia del png y además con menos tamaño.  
+   * Tiene una compatibilidad para casi todos los navegadores.
 
 - AVIF:
 
-* Para mi ahora mismo es la que más eficiente es ya que cuenta con un 50% menos del peso que WebP y deja la misma calidad.  
-* Para las web donde tengamos que poner imágenes grandes, ya sea en un slider o de fondo es muy bueno.  
-* Tiene lo único malo que es que soporta el HDR (tecnología que mejora la calidad visual de las imágenes al ampliar el rango de luces, sombras y colores) pero va más lento.
+   * Para mi ahora mismo es la que más eficiente es ya que cuenta con un 50% menos del peso que WebP y deja la misma calidad.  
+   * Para las web donde tengamos que poner imágenes grandes, ya sea en un slider o de fondo es muy bueno.  
+   * Tiene lo único malo que es que soporta el HDR (tecnología que mejora la calidad visual de las imágenes al ampliar el rango de luces, sombras y colores) pero va más lento.
 
 - SVG:
 
-* Es lo mejor para fotografías pequeñas, como puede ser un logo o iconos.  
-* No tiene pérdida y tiene un peso mínimo.  
-* Puede tener CSS y animaciones.
+   * Es lo mejor para fotografías pequeñas, como puede ser un logo o iconos.  
+   * No tiene pérdida y tiene un peso mínimo.  
+   * Puede tener CSS y animaciones.
 
 ¿Implementarías Lazy Loading?
 
-* Pues sí, ya que así consigo que solo se carguen cuando vayan a ser vistas, así reduce el consumo al abrir una web. Es como el Linux y el Windows: Windows tarda más en arrancar porque carga todo uses o no uses todo, y Linux carga solo lo que vayas a utilizar, por eso tarda menos en cargar el Linux.
+   * Pues sí, ya que así consigo que solo se carguen cuando vayan a ser vistas, así reduce el consumo al abrir una web. Es como el Linux y el Windows: Windows tarda más en arrancar porque carga todo uses o no uses todo, y Linux carga solo lo que vayas a utilizar, por eso tarda menos en cargar el Linux.
 
 Reducción de peticiones
 
 ¿Qué librerías o scripts externos eliminarías o aplazarías para mejorar la eficiencia del código y reducir el procesamiento en el dispositivo del cliente?
 
-* Cambiaría las imágenes a WebP.  
-* Reemplazo las imágenes grandes por AVIF.  
-* Quito imágenes que no dan un valor a la web.
+   * Cambiaría las imágenes a WebP.  
+   * Reemplazo las imágenes grandes por AVIF.  
+   * Quito imágenes que no dan un valor a la web.
 
-Reflexión sobre la Paradoja de Jevons
-
-Si optimizamos la web y la carga mucho más rápido, podríamos atraer a muchos más usuarios diarios. ¿Cómo evitarías que este éxito anule el ahorro energético conseguido?
 
 
 
