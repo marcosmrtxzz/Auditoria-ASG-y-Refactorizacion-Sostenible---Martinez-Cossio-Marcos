@@ -39,6 +39,8 @@ Identificación de barreras. Documenta al menos 2 problemas graves que impidan a
 Revisa cómo trata la empresa a sus usuarios y sus datos:
 Transparencia. ¿Es fácil rechazar las cookies no esenciales o utilizan "patrones oscuros" (Dark Patterns) para forzar al usuario a aceptarlas?
     - No da, la posibilidad de rechazarlas ademas de personalizarlas con Configuracion Perzonalizada para poder elegir cual si acepto y cual no.
+
+    
     <img width="543" height="123" alt="image" src="https://github.com/user-attachments/assets/6e7b69d4-ee53-47d6-97cc-bab65ff5b644" />
 
     
@@ -92,15 +94,24 @@ Debes plantear una mejora técnica estructurada de la web.
 3.1. Posibles mejoras ambientales (A)
 
    * Optimización de imágenes (WebP, compresión)
+
+     
      <img width="605" height="128" alt="image" src="https://github.com/user-attachments/assets/eb49feeb-3b4b-44bc-bb5b-beefa2676968" />
 
    * Reducción de peticiones HTTP
+
+
+
      <img width="770" height="132" alt="image" src="https://github.com/user-attachments/assets/4413e300-36c0-4ac3-a2c2-eae49333d15f" />
 
    * Lazy loading
+
+
      <img width="771" height="78" alt="image" src="https://github.com/user-attachments/assets/8152ceb2-b005-46b7-a936-7372ee7a03e7" />
 
    * Eliminación de código no utilizado
+
+
      - He borrado muchas cosas que no tenian que estar al estar vacias o no utilizadas:
      <img width="496" height="859" alt="image" src="https://github.com/user-attachments/assets/1f2715e4-3499-49ab-89d0-7485ebf42687" />
 
@@ -109,9 +120,6 @@ Debes plantear una mejora técnica estructurada de la web.
 
    * Uso de HTML semántico (header, nav, main, etc.)
 Línea 13: Inicio del <header class="site-header">
-
-
-
 
 Línea 26: Inicio de la etiqueta de navegación <nav class="header-navigation"...>
 
