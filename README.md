@@ -107,10 +107,30 @@ Debes plantear una mejora técnica estructurada de la web.
 
 3.2. Posibles mejoras sociales (S)
 
-   * Uso de HTML semántico (header, nav, main, etc.)  
-   * Inclusión de atributos alt  
-   * Mejora del contraste  
+   * Uso de HTML semántico (header, nav, main, etc.)
+Línea 13: Inicio del <header class="site-header">
+
+Línea 26: Inicio de la etiqueta de navegación <nav class="header-navigation"...>
+
+Línea 39: Apertura del contenedor principal <main id="tm-main">
+
+Línea 40: Uso de la división por bloques <section class="taberna-detail">
+
+Línea 48: Etiqueta de datos de contacto <address class="contact-info">
+
+Líneas 74 y 79: División de bloques de contenido independiente <article class="schedule-block">
+
+Líneas 76, 77, 81, 82: Formateo de horas estructuradas con <time datetime="...">
+
+   * Inclusión de atributos alt
+     <img width="612" height="607" alt="image" src="https://github.com/user-attachments/assets/b1a4a865-0725-4b38-97fe-c02abd88267e" />
+
+   * Mejora del contraste
+      <img width="527" height="176" alt="image" src="https://github.com/user-attachments/assets/e589bdea-ce27-4347-a31a-60b724aa8143" />
+
    * Navegación accesible
+     <img width="774" height="64" alt="image" src="https://github.com/user-attachments/assets/db647ffc-b33a-46a7-b78a-0d048bd24756" />
+
 
 3.3. Posibles mejoras de gobernanza (G)
 
