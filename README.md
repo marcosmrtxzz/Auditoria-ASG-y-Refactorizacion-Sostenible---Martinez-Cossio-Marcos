@@ -110,6 +110,9 @@ Debes plantear una mejora técnica estructurada de la web.
    * Uso de HTML semántico (header, nav, main, etc.)
 Línea 13: Inicio del <header class="site-header">
 
+
+
+
 Línea 26: Inicio de la etiqueta de navegación <nav class="header-navigation"...>
 
 Línea 39: Apertura del contenedor principal <main id="tm-main">
