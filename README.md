@@ -91,10 +91,19 @@ Debes plantear una mejora técnica estructurada de la web.
 
 3.1. Posibles mejoras ambientales (A)
 
-   * Optimización de imágenes (WebP, compresión)  
-   * Reducción de peticiones HTTP  
-   * Lazy loading  
+   * Optimización de imágenes (WebP, compresión)
+     <img width="605" height="128" alt="image" src="https://github.com/user-attachments/assets/eb49feeb-3b4b-44bc-bb5b-beefa2676968" />
+
+   * Reducción de peticiones HTTP
+     <img width="770" height="132" alt="image" src="https://github.com/user-attachments/assets/4413e300-36c0-4ac3-a2c2-eae49333d15f" />
+
+   * Lazy loading
+     <img width="771" height="78" alt="image" src="https://github.com/user-attachments/assets/8152ceb2-b005-46b7-a936-7372ee7a03e7" />
+
    * Eliminación de código no utilizado
+     - He borrado muchas cosas que no tenian que estar al estar vacias o no utilizadas:
+     <img width="496" height="859" alt="image" src="https://github.com/user-attachments/assets/1f2715e4-3499-49ab-89d0-7485ebf42687" />
+
 
 3.2. Posibles mejoras sociales (S)
 
